@@ -31,7 +31,7 @@ Pour gérer la classe virtuellement , plusieurs utilitaires peuvent être utilis
 
 ## Micro:bit
 
-* [SCRATCH 3]("https://scratch.mit.edu/" SCRATCH 3) : peut créer des programmes pour Micro:bit en utilisant une extension.
+* [SCRATCH 3]("https://scratch.mit.edu/" "SCRATCH 3") : peut créer des programmes pour Micro:bit en utilisant une extension.
 * [mBlock](www.mblock.cc "mBlock") : logiciel basé sur SCRATCH , et traduit à python
 * [Makecode](https://makecode.microbit.org "Makecode") : Editeur en ligne Makecode de Micro:bit par Microsoft .
 
