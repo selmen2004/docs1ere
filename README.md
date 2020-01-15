@@ -7,11 +7,12 @@ Liste des documents et logiciels nécéssaires et/ou utilisables aux enseignants
 
 * [40 activités avec la carte micro:bit](https://drive.google.com/file/d/10_Er5wKUr4Cycd42xOkdF58m_S0nSFZP/view "40 activités avec la carte micro:bit")
 * [Guide d’utilisation de la carte micro:bit](https://drive.google.com/file/d/1-ohsH8PVfiNgJcWUadTEpgBkwgW-7pOt/view "Guide d’utilisation de la carte micro:bit")
+* Vidéos : [1](https://youtu.be/qbyOZUM1hz8 "Microbit: Chocolate vending machine")
 
 ## Autres 
 
 * Documents par inspecteur Mr Najah DAOUES : [içi](https://najahdaoues.wordpress.com/telechargement/ "içi") et [içi ](https://drive.google.com/drive/folders/1uqsR2pUYeAagtAqa8003SgCXLxTgHJvA?fbcli "içi ")
-* Sololearn: Application Android permettant d'apprendre beaucoup de languages de programmations dont python
+
 # Outils
 
 ## Gestion de classe
@@ -22,11 +23,13 @@ Pour gérer la classe virtuellement , plusieurs utilitaires peuvent être utilis
 * [Padlet](https://padlet.com/)	
 * [Groupe Facebook](https://www.facebook.com/groups/)
 * [Moodle](https://download.moodle.org/)
+* NetSupport
 
 ## Enseigner la programmation
 
 * [code.org[ex hour of code]](https://code.org/ "code.org")
-
+* [Concours Castor Informatique](https://concours.castor-informatique.fr/ "Concours Castor Informatique")
+* [Sololearn](https://play.google.com/store/apps/details?id=com.sololearn "Sololearn"): Application Android permettant d'apprendre beaucoup de languages de programmations dont python
 ## Video
 
 - [Camtasia](https://www.techsmith.com/video-editor.html "Camtasia")
@@ -61,4 +64,5 @@ Pour gérer la classe virtuellement , plusieurs utilitaires peuvent être utilis
 
 * [3D Slash](https://www.3dslash.net/ "3D Slash")
 * [Sketchup](https://www.sketchup.com/ "Sketchup")
+	* Vidéos : [1](https://youtu.be/qaSiR07LP8E "Intérieur maison 3D") [2](https://youtu.be/bQ9P-e_uynA "Domino 3D")
 * [123 Design](https://www.autodesk.com/solutions/123d-apps "123 Design") [abandonné]
