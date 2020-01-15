@@ -7,7 +7,8 @@ Liste des documents et logiciels nécéssaires et/ou utilisables aux enseignants
 
 * [40 activités avec la carte micro:bit](https://drive.google.com/file/d/10_Er5wKUr4Cycd42xOkdF58m_S0nSFZP/view "40 activités avec la carte micro:bit")
 * [Guide d’utilisation de la carte micro:bit](https://drive.google.com/file/d/1-ohsH8PVfiNgJcWUadTEpgBkwgW-7pOt/view "Guide d’utilisation de la carte micro:bit")
-* Vidéos : [1](https://youtu.be/qbyOZUM1hz8 "Microbit: Chocolate vending machine")
+* Micro:Mag : La magazine Micro:bit : [1](http://go.micromag.cc/issueone "1") [2](http://go.micromag.cc/issuetwopdf "2") [3](http://go.micromag.cc/issuethreepdf "3") [4](http://go.micromag.cc/issuefourpdf "4") [5](http://go.micromag.cc/issuefivepdf "5") [6](http://go.micromag.cc/issue6pdf "6")
+* Vidéos : [1](https://youtu.be/qbyOZUM1hz8 "Microbit: Chocolate vending machine") [2](https://youtu.be/BHg70KMGS94 "2") [3](https://youtu.be/1_kyaPzVs_0 "Microbit: Worm")
 
 ## Autres 
 
@@ -28,6 +29,7 @@ Pour gérer la classe virtuellement , plusieurs utilitaires peuvent être utilis
 ## Enseigner la programmation
 
 * [code.org[ex hour of code]](https://code.org/ "code.org")
+* [Algo Blocs](https://www.algoblocs.fr/ "Algo Blocs")
 * [Concours Castor Informatique](https://concours.castor-informatique.fr/ "Concours Castor Informatique")
 * [Sololearn](https://play.google.com/store/apps/details?id=com.sololearn "Sololearn"): Application Android permettant d'apprendre beaucoup de languages de programmations dont python
 ## Video
@@ -59,10 +61,12 @@ Pour gérer la classe virtuellement , plusieurs utilitaires peuvent être utilis
 * [mBlock](www.mblock.cc "mBlock") : logiciel basé sur SCRATCH , et traduit à python
 * [Makecode](https://makecode.microbit.org "Makecode") : Editeur en ligne Makecode de Micro:bit par Microsoft .
    * Version offline [ [64bits]](https://makecode.microbit.org/offline-app "içi") [[32bits]](https://drive.google.com/file/d/1j-OVqfq6zMnIlr_v8UyvJv4Y7ewoqrL7/view "[32bits]")
+   * Vidéos : [1](https://youtu.be/HKaHJITnK3w "Makecode: Camera and Print Code")
 
 ## 3D
 
 * [3D Slash](https://www.3dslash.net/ "3D Slash")
 * [Sketchup](https://www.sketchup.com/ "Sketchup")
-	* Vidéos : [1](https://youtu.be/qaSiR07LP8E "Intérieur maison 3D") [2](https://youtu.be/bQ9P-e_uynA "Domino 3D")
+	* Vidéos : [1](https://youtu.be/qaSiR07LP8E "Intérieur maison 3D") [2](https://youtu.be/bQ9P-e_uynA "Domino 3D") [3](https://youtu.be/8CzaIlmq7zQ "Dessiner un pion d'echecs")
 * [123 Design](https://www.autodesk.com/solutions/123d-apps "123 Design") [abandonné]
+* [Blender](https://www.blender.org/ "Blender") 
