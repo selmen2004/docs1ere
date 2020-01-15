@@ -11,6 +11,7 @@ Liste des documents et logiciels nécéssaires et/ou utilisables aux enseignants
 ## Autres 
 
 * Documents par inspecteur Mr Najah DAOUES : [içi](https://najahdaoues.wordpress.com/telechargement/ "içi") et [içi ](https://drive.google.com/drive/folders/1uqsR2pUYeAagtAqa8003SgCXLxTgHJvA?fbcli "içi ")
+* Sololearn: Application Android permettant d'apprendre beaucoup de languages de programmations dont python
 # Outils
 
 ## Gestion de classe
@@ -37,6 +38,7 @@ Pour gérer la classe virtuellement , plusieurs utilitaires peuvent être utilis
 * [Quiz Faber](https://quizfaber.com/index.php/fr/ "Quiz Faber")
 * [Quiz Builder](http://www.quiz-builder.com/ "quiz builder")
 * [iSpring Presenter](https://www.ispringsolutions.com/support/presenter "iSpring Presenter")
+	* Téléchargement: [v9.3.0_Build_25746](https://drive.google.com/file/d/1AuoITNzURafS5JYogHs_ay59Kki3RXvv/view "v9.3.0_Build_25746")
 
 ## Programmation Python 
 
@@ -44,6 +46,7 @@ Pour gérer la classe virtuellement , plusieurs utilitaires peuvent être utilis
 - [Mu](https://codewith.mu "Mu") : Editeur open source Python qui supporte Micro:bit
      - Nécéssite SP1 si vous utilisez Win7 disponible [içi](https://drive.google.com/file/d/1MJ-c8jxjzs4UWFliyTXwOUvpWDK3k8c2/view "içi")
 - [Thonny](https://thonny.org/ "Thonny") : Editeur open source Python pour débutants
+- [EduPython](https://edupython.tuxfamily.org/ "EduPython") : Editeur python éducatif français
 - [QPython3](https://play.google.com/store/apps/details?id=org.qpython.qpy3 "QPython") [Android]
 - [PyDroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3 "PyDroid3") [Android]
 
@@ -52,7 +55,7 @@ Pour gérer la classe virtuellement , plusieurs utilitaires peuvent être utilis
 * [SCRATCH3](https://scratch.mit.edu/ "SCRATCH 3") : peut créer des programmes pour Micro:bit en utilisant une extension.
 * [mBlock](www.mblock.cc "mBlock") : logiciel basé sur SCRATCH , et traduit à python
 * [Makecode](https://makecode.microbit.org "Makecode") : Editeur en ligne Makecode de Micro:bit par Microsoft .
-   * Version offline [içi [64bits]](https://makecode.microbit.org/offline-app "içi")
+   * Version offline [ [64bits]](https://makecode.microbit.org/offline-app "içi") [[32bits]](https://drive.google.com/file/d/1j-OVqfq6zMnIlr_v8UyvJv4Y7ewoqrL7/view "[32bits]")
 
 ## 3D
 
